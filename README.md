@@ -1,5 +1,7 @@
 # PORTFOLIO-REACT
-# OUTPUT:
+# Description
+A simple portfolio template for developer/designers built with React.
+# OUTPUT PICTURE OF WEBSITE:
 ![image](https://github.com/SOMEASVAR/PORTFOLIO-REACT/assets/93434149/b42410aa-2385-47b1-8442-7c13a46f5111)
 ![image](https://github.com/SOMEASVAR/PORTFOLIO-REACT/assets/93434149/4c28749b-bfbb-490b-95a4-6a886e63ec08)
 ![image](https://github.com/SOMEASVAR/PORTFOLIO-REACT/assets/93434149/cda796b1-3bbd-452f-ba44-77041a63ff11)
